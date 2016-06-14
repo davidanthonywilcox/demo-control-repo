@@ -8,9 +8,9 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
-#mod 'apache',
-#  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
-#  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
+mod 'env-notify-module',
+  :git    => 'https://github.com/davidanthonywilcox/env-notify-module.git',
+  :commit => '1.0.2'
 
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
