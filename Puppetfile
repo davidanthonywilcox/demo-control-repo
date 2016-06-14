@@ -10,7 +10,7 @@ forge "http://forge.puppetlabs.com"
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'env-notify-module',
   :git    => 'https://github.com/davidanthonywilcox/env-notify-module.git',
-  :commit => '1.0.1'
+  :branch => 'feature-0011'
 
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
