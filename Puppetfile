@@ -4,4 +4,4 @@ forge "http://forge.puppetlabs.com"
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'env_notify_module',
   :git    => 'https://github.com/davidanthonywilcox/env_notify_module',
-  :tag    => '0.0.4'
+  :tag    => '0.0.5'
